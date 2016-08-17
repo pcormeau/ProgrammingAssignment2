@@ -9,7 +9,7 @@
 ##      sm$getinverse() : return the stored inverted matrix. Used by cacheSolve)
 ##
 ## cacheSolve return the inverted matrix by calculating it or, if
-##    it as already been calculated, the previously calculated result:
+##    it as already been calculated, using previously calculated result:
 ##      cacheSolve(sm) : Return the inverted matrix of sm
 ## 
 ## Usage :
